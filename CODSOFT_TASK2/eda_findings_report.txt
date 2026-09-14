@@ -1,0 +1,56 @@
+
+CODSOFT TASK 2 - EDA FINDINGS REPORT
+====================================
+
+Dataset Overview
+----------------
+Total Records: 1000
+Total Columns: 11
+Total Sales: 2619027.99
+Total Profit: 540158.77
+Average Sales per Order: 2619.03
+
+Key Findings
+------------
+1. West region generated the highest sales:
+   731581.23
+
+2. Technology was the highest-selling category:
+   727871.39
+
+3. Phone was the highest-selling product:
+   364294.35
+
+4. Corporate customers generated the highest sales:
+   943747.72
+
+5. Office Supplies generated the highest total profit:
+   146414.51
+
+6. Average sales value per order:
+   2619.03
+
+Outlier Findings
+----------------
+- Sales contained 2 outliers.
+- Profit contained 2 outliers.
+- Quantity contained 0 outliers.
+- Discount contained 0 outliers.
+
+Correlation Findings
+--------------------
+- Sales and Profit correlation: 0.0089
+- Sales and Quantity correlation: 0.0077
+- Sales and Discount correlation: 0.0012
+
+Conclusion
+----------
+The EDA identified important patterns in sales, profit, products,
+regions, and customer types. West was the strongest region,
+Technology was the leading category, and Corporate customers
+generated the highest sales.
+
+Note:
+The dataset is a synthetic dataset created for EDA practice.
+Some unusual values were intentionally included to demonstrate
+outlier detection.
